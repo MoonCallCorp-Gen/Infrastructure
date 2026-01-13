@@ -1,0 +1,7 @@
+/vibe-infra
+  progress/
+    2026-01.txt   (or daily files later)
+  tests/
+    test.json     (or tests/exp-001.json later)
+  schema.md
+  README.md
